@@ -1,0 +1,2 @@
+# studentmanage
+QT project 
